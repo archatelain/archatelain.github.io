@@ -1,3 +1,3 @@
-[Home](index.md) | [Research](research.md) | [About](/about/test.md)
+{% include navigation.md %}
 
 This is a test 
