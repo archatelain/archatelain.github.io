@@ -3,10 +3,20 @@
 
 @import "{{ site.theme }}";
 
-/* Custom CSS */
+/* Make img round */
 img {
     max-width: 200px;
     height: 200px;
     border-radius: 50%;
     overflow: hidden; /* Ensure the image is contained within the circle */
+}
+
+/* Align title and img */
+header {
+  text-align: center;
+}
+
+header h1, header img {
+  display: block;
+  margin: 0 auto;
 }
