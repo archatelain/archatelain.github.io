@@ -11,23 +11,15 @@ img {
     overflow: hidden; /* Ensure the image is contained within the circle */
 }
 
+/* Align title and img */
+header {
+  text-align: center;
+}
 
+header > * {
+    margin-bottom: 20px;
+}
 
-// /* Align title and img */
-// header {
-//   text-align: center;
-
-// }
-
-// header > * {
-//     margin-bottom: 20px;
-// }
-
-// header h1 {
-//     margin-bottom: 20px;
-// }
-
-// header img {
-//   display: block;
-//   margin: 0 auto;
-// }
+header p {
+    text-align: left;
+}
