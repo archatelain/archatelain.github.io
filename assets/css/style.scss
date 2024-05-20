@@ -3,23 +3,23 @@
 
 @import "{{ site.theme }}";
 
-/* Make img round */
-img {
-    max-width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    overflow: hidden; /* Ensure the image is contained within the circle */
-}
+// /* Make img round */
+// img {
+//     max-width: 200px;
+//     height: 200px;
+//     border-radius: 50%;
+//     overflow: hidden; /* Ensure the image is contained within the circle */
+// }
 
-/* Align title and img */
-header {
-  text-align: center;
-}
+// /* Align title and img */
+// header {
+//   text-align: center;
+// }
 
-header > * {
-    margin-bottom: 20px;
-}
+// header > * {
+//     margin-bottom: 20px;
+// }
 
-header p {
-    text-align: left;
-}
+// header p {
+//     text-align: left;
+// }
