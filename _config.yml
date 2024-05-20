@@ -1,6 +1,6 @@
 title: Arnault Chatelain
 description: A small website to present my scientific research
-logo: /assets/img/picture_square.jpg
+# logo: /assets/img/picture_square.jpg
 
 #Slate theme
 remote_theme: pages-themes/slate@v0.2.0
