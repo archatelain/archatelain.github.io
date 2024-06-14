@@ -1,11 +1,12 @@
 title: Arnault Chatelain
-description: A small website to present my scientific research
-# logo: /assets/img/picture_square.jpg
+description: |
+  PhD candidate in Economics\n
+  Computational Social Scientist\n
+  Python enthusiast
+
 
 #Slate theme
 remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 #Links in header
 baseurl: ""
@@ -14,17 +15,19 @@ url: "https://archatelain.github.io"
 # Navigation links
 navigation:
   - name: "Home"
-    url: "/"
-  - name: "About"
-    url: "/about/"
-  - name: "Projects"
-    url: "/projects/"
-  - name: "Contact"
-    url: "/contact/"
-
-#Minimal theme
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
+    url: "index.html"
+  - name: "Research"
+    url: "research.html"
+  - name: "Teaching/Talks"
+    url: "teaching.html"
+  - name: "Programming skills"
+    url: "programming.html"
+  - name: "CV"
+    url: "CV.html"
+  
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

@@ -3,23 +3,14 @@
 
 @import "{{ site.theme }}";
 
-// /* Make img round */
-// img {
-//     max-width: 200px;
-//     height: 200px;
-//     border-radius: 50%;
-//     overflow: hidden; /* Ensure the image is contained within the circle */
+.space-after { //to add space after details in research section
+    margin-bottom: 18px; /* Adjust the margin as needed */
+  }
+
+// #header_wrap {
+//     background: #212121;
 // }
 
-// /* Align title and img */
-// header {
-//   text-align: center;
-// }
-
-// header > * {
-//     margin-bottom: 20px;
-// }
-
-// header p {
-//     text-align: left;
+// #main_content_wrap {
+//     background: #212121;
 // }
