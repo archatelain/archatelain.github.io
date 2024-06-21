@@ -42,10 +42,3 @@ Finally, I am very much interested in recent advances in natural language proces
     <details class="space-after">
     <summary>abstract</summary>
     <p><em>In the past months, researchers have enthusiastically discussed the relevance of zero- or few-shot classifiers like ChatGPT for text annotation. Should these models prove to be performant, they would open up new continents for research, and beyond. To assess the merits and limits of this approach, we conducted a systematic literature review. Reading all the articles doing zero or few-shot text annotation in the human and social sciences, we found that these few- shot learners offer enticing, yet mixed results on text annotation tasks. The performance scores can vary widely, with some being average and some being very low. Besides, zero or few-shot models are often outperformed by models fine-tuned with human annotations. Our findings thus suggest that, to date, the evidence about their effectiveness remains partial, but also that their use raises several important questions about the reproducibility of results, about privacy and copyright issues, and about the primacy of the English language. While we definitely believe that there are numerous ways to harness this powerful technology productively, we also need to harness it without falling for the hype.</em></p></details>
-
-
-## En français dans le texte
-
-- Constituer une Base de Données du Rap Français, *Les territoires du rap: Hiérarchies, autorités, rapport de pouvoir*, Rennes, 12/12/2023
-    - [Slides](/assets/pdf/20231212.bdd_rap.pdf){:target="_blank"}
-    - *Pour des enjeux de droits d'auteurs je n'ai pas publié la base.*

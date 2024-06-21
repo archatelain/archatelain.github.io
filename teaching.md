@@ -41,8 +41,17 @@ These are slides of talks I have given that are not directly related to a paper 
 <summary style='font-weight: bold;'>ChatGPT: Enthousiasme et précautions (23/05/2024)</summary>
 <ul>
   <li>Présentation donnée dans le cadre des 11ème journées annuelles du réseau MATE-SHS sur le thème:
-    <em>Intelligence artificielle: applications et implications pour le métier d'ingénieur en SHS</em>
+    <em>Intelligence artificielle: applications et implications pour le métier d'ingénieur en SHS</em> à Lille
   </li> 
 <li><a href="{{ site.baseurl }}/assets/pdf/20240523.chatgpt_chatelain.pdf#zoom=50"> Slides </a></li>
 </ul>
+</details>
+
+<details>
+  <summary style='font-weight: bold;'> Constituer une Base de Données du Rap Français (12/12/2023)</summary>
+    <ul>
+      <li> Présentation données dans le cadre de la journée d'étude: Les territoires du rap: <em>Hiérarchies, autorités, rapport de pouvoir</em> à Rennes </li>
+      <li><a href="{{ site.baseurl }}/assets/pdf/20231212.bdd_rap.pdf"> Slides </a></li>
+      <li>Pour des enjeux de droits d'auteurs je n'ai pas publié la base</li>
+    </ul>
 </details>
