@@ -3,10 +3,18 @@ layout: default
 ---
 ## Teaching 
 <details>
+  <summary style='font-weight: bold;'>Applied Statistical Learning</summary>
+    <ul>
+      <li>Taught in 2024</li>
+      <li> Master 2 students, <em>ENSAE Paris</em></li>
+    </ul>
+</details>
+
+<details>
   <summary style='font-weight: bold;'>Crash Course in R </summary>
     <ul>
-    <li>Will be taught in 2024</li>
-    <li>Designed the course from A to Z</li>
+    <li>Taught in 2024</li>
+    <li>The class content is available <a href='https://github.com/archatelain/code-for-eco-532/blob/main/poly.md'>here</a></li>
     <li>Master in Economics, <em>Ecole Polytechnique</em>; Master Data and Economics for Public Policy, <em>ENSAE Paris</em></li>
     <li>8h</li>
     </ul>
@@ -15,19 +23,17 @@ layout: default
 <details>
 <summary style='font-weight: bold;'>Crash Course in Stata </summary>
 <ul>
-<li>Taught thrice (2021, 2022, 2023) </li>
-<li>Modified the existing curriculum, added a few exercises </li>
+<li>Taught thrice: 2021, 2022, 2023 </li>
+<li> The class content is available <a href='https://github.com/archatelain/code-for-eco-532/blob/main/poly.md'>here</a></li>
 <li>Master in Economics, <em>Ecole Polytechnique</em>; Master Data and Economics for Public Policy, <em>ENSAE Paris</em></li>
 <li>8h</li>
 </ul>
-<p>This crash in course in Stata aims at introducing the software to students. No prior knowledge is assumed. The class content is available <a href='https://github.com/archatelain/code-for-eco-532/blob/main/poly.md'>here</a>.</p>
 </details>
 
 <details>
 <summary style='font-weight: bold;'>Topics in Economics </summary>
 <ul>
-<li>Taught twice (2022, 2023)</li>
-<li>Wrote 2 TDs, extensively commented codes to make it accessible to students </li>
+<li>Taught twice: 2022, 2023</li>
 <li>Bachelor of Science, <em>Ecole Polytechnique</em></li>
 <li>14 classes of 2 hours</li>
 </ul>
@@ -55,3 +61,10 @@ These are slides of talks I have given that are not directly related to a paper 
       <li>Pour des enjeux de droits d'auteurs je n'ai pas publié la base</li>
     </ul>
 </details>
+
+## Training
+I occasionally give trainings to corporate audiences. I have taught:
+<ul>
+  <li> Introduction to Machine Learning and Deep Learning </li>
+  <li> Introduction to Python </li>
+</ul>
