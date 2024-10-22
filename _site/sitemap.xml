@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/CV.html</loc>
+<loc>https://archatelain.github.io/CV.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://archatelain.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/programming.html</loc>
+<loc>https://archatelain.github.io/programming.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/research.html</loc>
+<loc>https://archatelain.github.io/research.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/teaching.html</loc>
+<loc>https://archatelain.github.io/teaching.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/about/test.html</loc>
+<loc>https://archatelain.github.io/about/test.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/pdf/20231212.bdd_rap.pdf</loc>
+<loc>https://archatelain.github.io/assets/pdf/20231212.bdd_rap.pdf</loc>
 <lastmod>2024-05-20T23:30:22+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/assets/pdf/20240523.chatgpt_chatelain.pdf</loc>
+<loc>https://archatelain.github.io/assets/pdf/20240523.chatgpt_chatelain.pdf</loc>
 <lastmod>2024-06-14T18:30:06+02:00</lastmod>
 </url>
 </urlset>
