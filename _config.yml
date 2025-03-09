@@ -20,7 +20,7 @@ navigation:
     url: "research.html"
   - name: "Teaching/Talks"
     url: "teaching.html"
-  - name: "Programming skills"
+  - name: "Programming"
     url: "programming.html"
   - name: "CV"
     url: "CV.html"

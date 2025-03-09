@@ -1,8 +1,16 @@
 ---
 layout: default
 ---
-## Programming Skills
+## Programming 
 
+**Text Classification with Language Models** \\
+ActiveTigger is an text annotation web tool dedicated for computational social sciences. It is designed to assist exploration and model (BERT) fine-tuning to annotate text dataset relying on active learning \\
+[Doc](https://css-polytechnique.github.io/activetigger/docs/), [Github](https://github.com/emilienschultz/activetigger/)
+
+**Python** \\
+Python is my main programming language. I am using mostly <code>requests, BeautifulSoup, selenium</code> for data collection,<code>pandas</code> for cleaning, <code>statsmodel, scikit-learn</code> for analysis and <code>matplotlib</code> for visualisation.
+
+<!-- 
 <details>
   <summary style='font-weight: bold;'>Python</summary>
   <p>I am mostly using Python for data collection, data cleaning, data analysis and data visualisation. Beyond the Python Standard Library, here are the main libraries and packages I have been using:</p>
@@ -47,4 +55,4 @@ layout: default
     <li> Basic HTML and CSS understanding </li> (I built this website with Jekyll and manually customized several elements of the template as well as wrote some parts in HTML)
   </ul>
 </details>
-
+ -->

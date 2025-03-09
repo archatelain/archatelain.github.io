@@ -2,14 +2,45 @@
 layout: default
 ---
 ## Teaching 
+
+**Machine Learning for Natural Language Processing** \\
+ENSAE Paris, Master 2, 2025 \\
+[Content](https://www.ensae.fr/en/courses/4237) 
+
+**Applied Statistical Learning** \\
+ENSAE Paris, Master 2, 2024 \\
+Content: theory of learning and applications
+
+**Crash Course in R** \\
+Ecole Polytechnique & ENSAE Paris, Master 1, 2024 \\
+[Content](https://github.com/archatelain/code-for-eco-532/blob/main/poly.md)
+
+**Crash Course in Stata** \\
+Ecole Polytechnique & ENSAE Paris, Master 1, 2021-2023 \\
+[Content](https://github.com/archatelain/code-for-eco-532/blob/main/poly.md)
+
+**Topics in Economics** \\
+Ecole Polytechnique, Bachelor, 2022-2023 \\
+Content: Introduction to econometrics and economic modeling
+
+<!-- 
 <details>
-  <summary style='font-weight: bold;'>Applied Statistical Learning</summary>
+  <summary style='font-weight: bold;'>Machine Learning for Natural Language Processing</summary>
     <ul>
-      <li>Taught in 2024</li>
+      <li>Taught in 2025</li>
       <li> Master 2 students, <em>ENSAE Paris</em></li>
     </ul>
 </details>
 
+<details>
+  <summary style='font-weight: bold;'>Applied Statistical Learning</summary>
+    <ul>
+      <li>Taught in 2024</li>
+      <li>Introduction to the theory of learning (feasability, EMR, VC-dimension). Applications to linear regression, logistic regression, SVM, feedforward and convolutional neural networks.</li>
+      <li> Master 2 students, <em>ENSAE Paris</em></li>
+    </ul>
+</details> -->
+<!-- 
 <details>
   <summary style='font-weight: bold;'>Crash Course in R </summary>
     <ul>
@@ -38,7 +69,7 @@ layout: default
 <li>14 classes of 2 hours</li>
 </ul>
 <p style="text-align: justify;">This class has two parts. First an introduction to econometrics, with hands-on TDs on Stata. Second an introduction to economic modeling using some of Gary Becker's models.</p>
-</details>
+</details> -->
 
 ## Talks 
 These are slides of talks I have given that are not directly related to a paper I am writing. 
