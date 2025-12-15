@@ -71,6 +71,20 @@ Content: Introduction to econometrics and economic modeling
 <p style="text-align: justify;">This class has two parts. First an introduction to econometrics, with hands-on TDs on Stata. Second an introduction to economic modeling using some of Gary Becker's models.</p>
 </details> -->
 
+
+
+
+
+## Training
+I occasionally give trainings to corporate audiences. I have taught:
+<ul>
+  <li> Introduction to Machine Learning </li>
+  <li> Introduction to Deep Learning </li>
+  <li> Introduction to Python </li>
+  <li> Advanced Python </li>
+</ul>
+
+
 ## Talks 
 These are slides of talks I have given that are not directly related to a paper I am writing. 
 
@@ -92,10 +106,3 @@ These are slides of talks I have given that are not directly related to a paper 
       <li>Pour des enjeux de droits d'auteurs je n'ai pas publié la base</li>
     </ul>
 </details>
-
-## Training
-I occasionally give trainings to corporate audiences. I have taught:
-<ul>
-  <li> Introduction to Machine Learning and Deep Learning </li>
-  <li> Introduction to Python </li>
-</ul>

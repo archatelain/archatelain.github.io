@@ -24,20 +24,17 @@ Finally, I am very much interested in recent advances in natural language proces
 
 ## Work in progress
 
-**Evolving Social Norms: Consumer Reactions to Sexual Violence Scandals in the Music Industry** \\
-Job Market Paper
-    <!-- <details class="space-after">
-    <summary>abstract</summary>
-    <p><em>This paper looks at how consumers react to sexual violence scandals of music artists in the
-     French music market. Using an event detection pipeline and a staggered synthetic control method it 
-     finds a negative effect on sales and streaming volumes. Heterogeneity along socio demographically 
-     variables is discussed as well as counteracting news and scandal effects.</em></p>
-    </details> -->
-<!-- - Using Word Embeddings to Compare the Prevalence of Gender Stereotypes in Major Music Genres from 1958 to 2022 (with Cameron Rhys Herbert, [Roxana Hofmann](https://www.linkedin.com/in/roxana-hofmann-a0b135222/?originalSubdomain=uk), [Donia Kamel](https://www.doniakamel.com/home), [Maël Lecoursonnais](https://maellecoursonnais.github.io/)), *Submitted*
-    <details class="space-after">
-    <summary>abstract</summary>
-    <p><em>This paper presents a content analysis of gender stereotypes in popular song lyrics using word embeddings. We begin by explaining how we curated a novel data set comprising lyrics from popular songs in the US over the past 70 years. We then explain word embeddings, detailing their nature and application to our lyric corpus. Subsequently, we apply embeddings to explore the prevalence of gender stereotypes across major music genres and to test the frequently voiced belief that certain genres, specifically hip hop, make significantly greater use of gender stereotypes than other genres. Our findings showed that while all genres exhibited stereotyping of men and women, the specific content of these stereotypes varied significantly by genre, often in surprising ways, such as that gender stereotypes in hip hop, often perceived as being distinctly sexist, were rarely stronger in hip hop than in other genres. Finally, we reflect on the strengths and limitations of using word embeddings to study music lyrics and provide suggestions for their best application to social science questions.</em></p>
-    </details> -->
+**No Bad Buzz?: Methods and Evidence from Sexual Misconduct Scandals in the Music Industry** 
+
+<!-- <details class="space-after">
+<summary>abstract</summary>
+<p>This paper studies the effect of sexual and domestic violence allegations on music artists' commercial success. Using market data on music streaming in France I find that high-profile sexual misconduct scandals lead to a significant drop of an average of 9% of number of plays on music streaming platforms in the following year -- the scandals are retrieved in the national press using a custom event detection pipeline and the effect is estimated using a stacked synthetic control method. Converting it to total reputation cost, including all types of artists income sources, this represents a loss of €32,544 in the following year. Exploratory heterogeneity analysis suggest that hiphop artists are associated with a stronger scandal effect than others, highlighting the heterogeneity in the scandals effect studied. These results provide first evidence that some consumer sanctioning is at play following such scandals and thus contributes to the general discussion on which channels of sanctions could curb permissive industry cultures with regards to sexual misconduct.</p>
+</details> -->
+
+
+**BenCSSMark: Towards An Open, Collective Benchmark for Computational Social Sciences** \\
+(with Etienne Ollion, Qianwen Guan, Diandra Fabre, Marie Candito, Lorraine Goeuriot, Emile Chapuis, Abdelkrim Beloued, Nicolas Hervé, Didier Schwab)
+
 
 **Media Slant as Political Refraction: Measuring the Ideological Diversity of the French Media Landscape** \\
 (with [Felix Lennert](https://felix-lennert.netlify.app/), [Etienne Ollion](https://ollion.cnrs.fr/), [Rubing Shen](https://medialab.sciencespo.fr/equipe/rubing-shen/))
