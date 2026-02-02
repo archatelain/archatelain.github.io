@@ -4,9 +4,9 @@ layout: default
 
 Hi there! 
 
-My name is Arnault Chatelain, I'm a PhD candidate at [CREST](https://crest.science/), [Ecole Polytechnique](https://www.polytechnique.edu/).
+My name is Arnault Chatelain, I'm a PhD candidate in Economics at [CREST](https://crest.science/), [Ecole Polytechnique](https://www.polytechnique.edu/).
 
-I'm co-organizing the [AI & Social Sciences](https://www.css.cnrs.fr/ai-social-sciences-seminar/) seminar of the [Institut Polytechnique de Paris](https://www.ip-paris.fr/).
+I'm also part of the [Computational Social Sciences](https://www.css.cnrs.fr/) team of CREST and the [Institut Polytechnique de Paris](https://www.ip-paris.fr/).
 
 <!-- This year (2024-2025), I'm working as a research engineer on the ANR project [Pantagruel](https://pantagruel.imag.fr/). I'm working in the Large Language Model evaluation team.  -->
 

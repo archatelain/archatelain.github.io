@@ -19,10 +19,13 @@ Finally, I am very much interested in recent advances in natural language proces
 
 [**The dangers of using proprietary LLMs for research**](https://rdcu.be/dwdJE) \\
 (with [Ana Macanovic](https://amacanovic.github.io/), [Etienne Ollion](https://ollion.cnrs.fr/), [Rubing Shen](https://medialab.sciencespo.fr/equipe/rubing-shen/)) \\
-*Nature Machine Intelligence*, 6(1), 4-5 (2024)
+*Nature Machine Intelligence*, 6(1), 4-5 (2024) 
 
+Media: [Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/lia-est-elle-un-outil-scientifique-fiable-pour-les-chercheurs-2212415), [Polytechnique Insights](https://www.polytechnique-insights.com/tribunes/digital/lia-generative-est-elle-un-gain-pour-la-recherche/)
 
 ## Work in progress
+
+### *Social Sciences*
 
 **No Bad Buzz?: Methods and Evidence from Sexual Misconduct Scandals in the Music Industry** 
 
@@ -31,16 +34,23 @@ Finally, I am very much interested in recent advances in natural language proces
 <p>This paper studies the effect of sexual and domestic violence allegations on music artists' commercial success. Using market data on music streaming in France I find that high-profile sexual misconduct scandals lead to a significant drop of an average of 9% of number of plays on music streaming platforms in the following year -- the scandals are retrieved in the national press using a custom event detection pipeline and the effect is estimated using a stacked synthetic control method. Converting it to total reputation cost, including all types of artists income sources, this represents a loss of €32,544 in the following year. Exploratory heterogeneity analysis suggest that hiphop artists are associated with a stronger scandal effect than others, highlighting the heterogeneity in the scandals effect studied. These results provide first evidence that some consumer sanctioning is at play following such scandals and thus contributes to the general discussion on which channels of sanctions could curb permissive industry cultures with regards to sexual misconduct.</p>
 </details> -->
 
-
-**BenCSSMark: Towards An Open, Collective Benchmark for Computational Social Sciences** \\
-(with Etienne Ollion, Qianwen Guan, Diandra Fabre, Marie Candito, Lorraine Goeuriot, Emile Chapuis, Abdelkrim Beloued, Nicolas Hervé, Didier Schwab)
-
-
 **Media Slant as Political Refraction: Measuring the Ideological Diversity of the French Media Landscape** \\
 (with [Felix Lennert](https://felix-lennert.netlify.app/), [Etienne Ollion](https://ollion.cnrs.fr/), [Rubing Shen](https://medialab.sciencespo.fr/equipe/rubing-shen/))
 
 **"Everyone Knows That": Detecting Rhetorics Usage on the French Radio** \\
-(with Yacine Chitour and [Etienne Ollion](https://ollion.cnrs.fr/))
+(with Yacine Chitour and [Etienne Ollion](https://ollion.cnrs.fr/)) 
+
+
+
+### *Natural Language Processing* 
+
+**BenCSSMark: Towards An Open, Collective Benchmark for Computational Social Sciences** \\
+(with Etienne Ollion, Qianwen Guan, Diandra Fabre, Marie Candito, Lorraine Goeuriot, Emile Chapuis, Abdelkrim Beloued, Nicolas Hervé, Didier Schwab)
+
+[**Pantagruel: Unified Self-Supervised Encoders for French Text and Speech**](https://arxiv.org/abs/2601.05911)
+(with the [Pantagruel team](https://pantagruel.imag.fr/)) \\
+*arXiv*, (2026)
+
 
 
 
