@@ -17,6 +17,14 @@ Finally, I am very much interested in recent advances in natural language proces
 
 ## Publication
 
+[**BenCSSMark: Towards An Open, Collective Benchmark for Computational Social Sciences**](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.64.pdf) \\
+(with Etienne Ollion, Qianwen Guan, Diandra Fabre, Marie Candito, Lorraine Goeuriot, Emile Chapuis, Abdelkrim Beloued, Nicolas Hervé, Didier Schwab)
+*Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)*
+
+[**Pantagruel: Unified Self-Supervised Encoders for French Text and Speech**](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.799.pdf)
+(with the [Pantagruel team](https://pantagruel.imag.fr/)) \\
+*Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)*
+
 [**The dangers of using proprietary LLMs for research**](https://rdcu.be/dwdJE) \\
 (with [Ana Macanovic](https://amacanovic.github.io/), [Etienne Ollion](https://ollion.cnrs.fr/), [Rubing Shen](https://medialab.sciencespo.fr/equipe/rubing-shen/)) \\
 *Nature Machine Intelligence*, 6(1), 4-5 (2024) 
@@ -25,9 +33,8 @@ Media: [Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/lia-est-
 
 ## Work in progress
 
-### *Social Sciences*
 
-**No Bad Buzz?: Methods and Evidence from Sexual Misconduct Scandals in the Music Industry** 
+**The Economic Effect of Sexual Violence Scandals in the Music Streaming Industry** 
 
 <!-- <details class="space-after">
 <summary>abstract</summary>
@@ -39,17 +46,6 @@ Media: [Les Echos](https://www.lesechos.fr/idees-debats/editos-analyses/lia-est-
 
 **"Everyone Knows That": Detecting Rhetorics Usage on the French Radio** \\
 (with Yacine Chitour and [Etienne Ollion](https://ollion.cnrs.fr/)) 
-
-
-
-### *Natural Language Processing* 
-
-**BenCSSMark: Towards An Open, Collective Benchmark for Computational Social Sciences** \\
-(with Etienne Ollion, Qianwen Guan, Diandra Fabre, Marie Candito, Lorraine Goeuriot, Emile Chapuis, Abdelkrim Beloued, Nicolas Hervé, Didier Schwab)
-
-[**Pantagruel: Unified Self-Supervised Encoders for French Text and Speech**](https://arxiv.org/abs/2601.05911)
-(with the [Pantagruel team](https://pantagruel.imag.fr/)) \\
-*arXiv*, (2026)
 
 
 

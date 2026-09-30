@@ -16,7 +16,7 @@ I'm also part of the [Computational Social Sciences](https://www.css.cnrs.fr/) t
 
 ## Research Interests
 
-- Digital Economics
+- Cultural Economics
 - Natural Language Processing
 - Applied Econometrics
 
